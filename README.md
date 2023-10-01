@@ -67,4 +67,5 @@ The content update involves dynamically creating two div elements, each with a u
 
 <h2> UI </h2>
 
-![image](https://github.com/trishaDas13/mousePointer/assets/126088849/7ed284ed-5e26-4ca3-81ae-28e6c6de5da8)
+![image](https://github.com/trishaDas13/mousePointer/assets/126088849/8cb21a36-9647-4c6b-af2b-f0177bd96b6d)
+
